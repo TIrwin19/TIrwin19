@@ -57,6 +57,12 @@ As a Full-stack Developer, I'm passionate about crafting seamless digital experi
 <br/>  
 
 
+## Spodify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12168607314&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12168607314&redirect=true)
+
+<br/>
+
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 

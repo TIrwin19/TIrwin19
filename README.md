@@ -7,10 +7,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/trevor-irwin/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://docs.credentials.rutgers.edu/57047af9-e28b-4c8a-a99a-b0390bc9470e" target="_blank">
-<img src="https://github.com/TIrwin19/TIrwin19/assets/96069789/0cd7189f-a020-4243-9cd4-4033366e0455" height="30"
-/>
-</a>
 
 
 
@@ -60,6 +56,14 @@ As a Full-stack Developer, I'm passionate about crafting seamless digital experi
 </div>  
 
 <br/>  
+
+
+## Certificates
+
+<a href="https://docs.credentials.rutgers.edu/57047af9-e28b-4c8a-a99a-b0390bc9470e" target="_blank">
+<img src="https://github.com/TIrwin19/TIrwin19/assets/96069789/0cd7189f-a020-4243-9cd4-4033366e0455" height="130"
+/>
+</a>
 
 
 ## Spodify

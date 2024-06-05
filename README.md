@@ -19,7 +19,7 @@ As a Full-stack Developer, I'm passionate about crafting seamless digital experi
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [Battle Brain](https://nameless-inlet-80123-f3bf2fedf73b.herokuapp.com/singleplayer)🧠  
+- 🔭 I’m currently working on [Battle Brain](https://nameless-inlet-80123-f3bf2fedf73b.herokuapp.com/singleplayer)🧠 a PvP style trivia game.
   
 
 - 🌱 I’m currently learning Typescript  

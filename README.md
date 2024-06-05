@@ -1,3 +1,4 @@
+  
 ## 👋 Hey there! I'm Trevor, welcome to my GitHub playground! 🚀  
   
 
@@ -19,8 +20,6 @@ As a Full-stack Developer, I'm passionate about crafting seamless digital experi
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on [Battle Brain](https://nameless-inlet-80123-f3bf2fedf73b.herokuapp.com/singleplayer)🧠  
   
 
@@ -31,13 +30,7 @@ As a Full-stack Developer, I'm passionate about crafting seamless digital experi
   
 
 - ⚡ Fun fact: I climb rocks 🧗‍♂️ and 3D Print   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -68,11 +61,11 @@ As a Full-stack Developer, I'm passionate about crafting seamless digital experi
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TIrwin19&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TIrwin19&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIrwin19&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIrwin19&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 

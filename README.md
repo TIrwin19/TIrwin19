@@ -1,4 +1,3 @@
-  
 ## 👋 Hey there! I'm Trevor, welcome to my GitHub playground! 🚀  
   
 
@@ -84,4 +83,3 @@ As a Full-stack Developer, I'm passionate about crafting seamless digital experi
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
